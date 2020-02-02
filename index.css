@@ -1,0 +1,25 @@
+.titillium {
+  font-family: 'Titillium', sans-serif;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.bolder {
+  font-weight: bolder;
+}
+
+.light {
+  font-weight: lighter;
+}
+.semibold {
+  font-weight: 200;
+}
+.thin {
+  font-weight: 100;
+}
